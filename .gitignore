@@ -1,0 +1,14 @@
+### minimal ignore file template
+# editors files
+/.vscode/
+/.idea/
+.DS_Storage
+.phcode.json
+
+# emacs cache and backups
+\#*\#
+*~
+
+# temporary files storage
+/temp/
+/tmp/
