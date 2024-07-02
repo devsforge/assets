@@ -30,9 +30,9 @@
      inkscape:document-units="px"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="0.25"
-     inkscape:cx="3058"
-     inkscape:cy="2246"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="3477.5511"
+     inkscape:cy="2419.7194"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="1912"
@@ -58,6 +58,25 @@
        orientation="0,-1"
        id="guide137"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="3136.0002,1737.1803"
+       orientation="0,-1"
+       id="guide16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3136.0002,1771.1803"
+       orientation="0,1"
+       id="guide17"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="3136.0002,1682.1803"
+       orientation="0,1"
+       id="guide18"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
   <defs
      id="defs1" />
@@ -244,23 +263,15 @@
      width="144"
      height="144"
      x="2992"
-     y="110.00017"
+     y="381.39883"
      ry="0.00011381805" />
-  <rect
-     style="fill:#000000;fill-opacity:0.50108;stroke-width:0.514585;-inkscape-stroke:none;paint-order:markers fill stroke"
-     id="rect11"
-     width="233"
-     height="233"
-     x="3136"
-     y="21.000168"
-     ry="0.00018416395" />
   <rect
      style="fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;-inkscape-stroke:none;paint-order:markers fill stroke"
      id="rect2"
      width="89"
      height="89"
      x="2992"
-     y="165.00017"
+     y="436.39883"
      ry="7.0345879e-05" />
   <rect
      style="fill:#ffffff;fill-opacity:0.50108;stroke-width:0.121469;-inkscape-stroke:none;paint-order:markers fill stroke"
@@ -268,16 +279,8 @@
      width="55.000084"
      height="55.000084"
      x="3081"
-     y="110.00017"
+     y="381.39883"
      ry="4.3472239e-05" />
-  <rect
-     style="fill:#ffffff;fill-opacity:0.50108;stroke-width:0.318027;-inkscape-stroke:none;paint-order:markers fill stroke"
-     id="rect13"
-     width="144"
-     height="144"
-     x="3136"
-     y="110.00017"
-     ry="0.00011381805" />
   <path
      id="circle13"
      style="fill:#e9c6af;fill-opacity:0.396875;stroke:none;stroke-width:0.0897605;paint-order:markers fill stroke"
@@ -307,38 +310,30 @@
      style="fill:#ff0000;fill-opacity:0.396875;stroke:none;stroke-width:0.0897605;paint-order:markers fill stroke"
      id="circle27"
      cx="2992"
-     cy="154.50017"
+     cy="425.89883"
      r="116.5"
      inkscape:label="head outer a" />
   <circle
      style="fill:#ff00ff;fill-opacity:0.396875;stroke:none;stroke-width:0.0554743;paint-order:markers fill stroke"
      id="circle25"
      cx="3036.5"
-     cy="154.50017"
+     cy="425.89883"
      r="72"
      inkscape:label="head outer b" />
   <circle
      style="fill:#0000ff;fill-opacity:0.396875;stroke:none;stroke-width:0.0897605;paint-order:markers fill stroke"
      id="circle7"
      cx="2964.5"
-     cy="154.50017"
+     cy="425.89883"
      r="116.5"
      inkscape:label="head inner a" />
   <circle
      style="fill:#ffccaa;fill-opacity:0.396875;stroke:none;stroke-width:0.0342862;paint-order:markers fill stroke"
      id="circle8"
      cx="3036.5"
-     cy="154.50017"
+     cy="425.89883"
      r="44.5"
      inkscape:label="head inner b" />
-  <rect
-     style="fill:#ffffff;fill-opacity:0.50108;stroke-width:0.121469;-inkscape-stroke:none;paint-order:markers fill stroke"
-     id="rect25"
-     width="55.000084"
-     height="55.000084"
-     x="3191"
-     y="0"
-     ry="4.3472239e-05" />
   <g
      id="g54"
      transform="translate(-2008.0002,110.00016)">
@@ -379,7 +374,7 @@
      width="144"
      height="144"
      x="3792"
-     y="110.00017"
+     y="381.39883"
      ry="0.00011381805" />
   <rect
      style="fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;-inkscape-stroke:none;paint-order:markers fill stroke"
@@ -387,7 +382,7 @@
      width="89"
      height="89"
      x="3792"
-     y="165.00017"
+     y="436.39883"
      ry="7.0345879e-05" />
   <rect
      style="fill:#ffffff;fill-opacity:0.50108;stroke-width:0.121469;-inkscape-stroke:none;paint-order:markers fill stroke"
@@ -395,26 +390,26 @@
      width="55.000084"
      height="55.000084"
      x="3881"
-     y="110.00017"
+     y="381.39883"
      ry="4.3472239e-05" />
   <circle
      style="fill:#0000ff;fill-opacity:0.6;stroke:none;stroke-width:0.0342862;paint-order:markers fill stroke"
      id="circle46"
      cx="3836.5"
-     cy="154.50017"
+     cy="425.89883"
      r="44.5"
      inkscape:label="head inner b" />
   <circle
      style="fill:#ff6600;fill-opacity:0.5;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
      id="circle47"
      cx="3840.5"
-     cy="154.50017"
+     cy="425.89883"
      r="27.5"
      inkscape:label="n9" />
   <circle
      id="circle49"
      cx="3802.5"
-     cy="154.50017"
+     cy="425.89883"
      r="10.5"
      style="font-variation-settings:normal;vector-effect:none;fill:#0000ff;fill-opacity:0.8;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
      inkscape:label="n7" />
@@ -424,7 +419,7 @@
      width="144"
      height="144"
      x="3792"
-     y="254.00018"
+     y="525.39886"
      ry="0.00011381805" />
   <rect
      style="fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;-inkscape-stroke:none;paint-order:markers fill stroke"
@@ -432,7 +427,7 @@
      width="89"
      height="89"
      x="3792"
-     y="309.00018"
+     y="580.39886"
      ry="7.0345879e-05" />
   <rect
      style="fill:#ffffff;fill-opacity:0.50108;stroke-width:0.121469;-inkscape-stroke:none;paint-order:markers fill stroke"
@@ -440,13 +435,13 @@
      width="55.000084"
      height="55.000084"
      x="3881"
-     y="254.00018"
+     y="525.39886"
      ry="4.3472239e-05" />
   <circle
      style="fill:#0000ff;fill-opacity:0.6;stroke:none;stroke-width:0.0342862;paint-order:markers fill stroke"
      id="circle52"
      cx="-3836.5"
-     cy="298.50018"
+     cy="569.89886"
      r="44.5"
      inkscape:label="head inner b"
      transform="scale(-1,1)" />
@@ -454,14 +449,14 @@
      style="fill:#ff6600;fill-opacity:0.5;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
      id="circle53"
      cx="-3832.5"
-     cy="298.50018"
+     cy="569.89886"
      r="27.5"
      inkscape:label="n9"
      transform="scale(-1,1)" />
   <circle
      id="circle54"
      cx="-3870.5"
-     cy="298.50018"
+     cy="569.89886"
      r="10.5"
      style="font-variation-settings:normal;vector-effect:none;fill:#0000ff;fill-opacity:0.8;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
      inkscape:label="n7"
@@ -636,4 +631,138 @@
      cy="2240.0933"
      r="27.5"
      inkscape:label="n9" />
+  <rect
+     style="fill:#000000;fill-opacity:0.50108;stroke-width:0.318027;-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="rect4"
+     width="144"
+     height="144"
+     x="2992"
+     y="2808.3196"
+     ry="0.00011381805" />
+  <circle
+     style="display:inline;fill:#ff0000;fill-opacity:0.396875;stroke:none;stroke-width:0.0897605;paint-order:markers fill stroke"
+     id="circle6"
+     cx="2992"
+     cy="2852.8196"
+     r="116.5"
+     inkscape:label="head outer a" />
+  <circle
+     style="display:inline;fill:#ff00ff;fill-opacity:0.396875;stroke:none;stroke-width:0.0554743;paint-order:markers fill stroke"
+     id="circle9"
+     cx="3036.5"
+     cy="2852.8196"
+     r="72"
+     inkscape:label="head outer b" />
+  <circle
+     style="display:inline;fill:#0000ff;fill-opacity:0.396875;stroke:none;stroke-width:0.0897605;paint-order:markers fill stroke"
+     id="circle10"
+     cx="2964.5"
+     cy="2852.8196"
+     r="116.5"
+     inkscape:label="head inner a" />
+  <circle
+     style="display:inline;fill:#ffccaa;fill-opacity:0.396875;stroke:none;stroke-width:0.0342862;paint-order:markers fill stroke"
+     id="circle11"
+     cx="3036.5"
+     cy="2852.8196"
+     r="44.5"
+     inkscape:label="head inner b" />
+  <rect
+     style="fill:#000000;fill-opacity:0.50108;stroke-width:0.514585;-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="rect12"
+     width="233"
+     height="233"
+     x="3136"
+     y="2719.3196"
+     ry="0.00018416393" />
+  <rect
+     style="fill:#000000;fill-opacity:0.50108;stroke-width:0.832612;-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="rect15"
+     width="377"
+     height="377"
+     x="3369"
+     y="2575.3196"
+     ry="0.00029798198" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="rect5"
+     width="89"
+     height="89"
+     x="2992"
+     y="2863.3196"
+     ry="7.0345879e-05" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.50108;stroke-width:0.121469;-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="rect6"
+     width="55.000084"
+     height="55.000084"
+     x="3081"
+     y="2808.3196"
+     ry="4.3472239e-05" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="rect11"
+     width="144"
+     height="144"
+     x="3136"
+     y="2808.3196"
+     ry="0.00011381805" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="rect13"
+     width="89"
+     height="89"
+     x="3280"
+     y="2719.3196"
+     ry="7.0345879e-05" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.50108;stroke-width:0.318026;-inkscape-stroke:none;paint-order:markers fill stroke;font-variation-settings:normal;opacity:1;vector-effect:none;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     id="rect16"
+     width="233"
+     height="233"
+     x="3369"
+     y="2719.3196"
+     ry="0.00018416393" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="rect14"
+     width="144"
+     height="144"
+     x="3602"
+     y="2575.3196"
+     ry="0.00011381805" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     x="2992"
+     y="189.395"
+     id="text18"><tspan
+       sodipodi:role="line"
+       id="tspan18"
+       x="2992"
+       y="189.395">head sketches</tspan><tspan
+       sodipodi:role="line"
+       id="tspan19"
+       x="2992"
+       y="269.39502"></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     x="3792"
+     y="183.955"
+     id="text20"><tspan
+       sodipodi:role="line"
+       id="tspan20"
+       x="3792"
+       y="183.955">eye sketches</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     x="2992"
+     y="2498"
+     id="text21"><tspan
+       sodipodi:role="line"
+       id="tspan21"
+       x="2992"
+       y="2498">wing sketches</tspan></text>
 </svg>
