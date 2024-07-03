@@ -219,8 +219,7 @@
     <path
       id="symbol-v1.0-head-2"
       style="display:inline;fill:#a05a2c;fill-opacity:1;stroke:none;stroke-width:0.0897605;paint-order:markers fill stroke"
-      d="m 782.4517,0 c -39.7642,0 -72.0879,32.23566 -72.0879,72 0,64.34087 52.1591,116.49995 116.5,116.49995 64.3412,0 116.5,-52.15908 116.5,-116.49995 0,-39.76434 -32.3234,-72 -72.0879,-72 z"
-      sodipodi:nodetypes="ssssss"/>
+      d="m 782.4517,0 c -39.7642,0 -72.0879,32.23566 -72.0879,72 0,64.34087 52.1591,116.49995 116.5,116.49995 64.3412,0 116.5,-52.15908 116.5,-116.49995 0,-39.76434 -32.3234,-72 -72.0879,-72 z"/>
     <path
       id="symbol-v1.0-head-1"
       style="display:inline;fill:#e9c6af;fill-opacity:1;stroke:none;stroke-width:0.0897605;paint-order:markers fill stroke"
@@ -230,14 +229,14 @@
       style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0897605;paint-order:markers fill stroke"
       d="m 826.8638,72 c -0.011,15.77671 -8.3745,30.36837 -21.9824,38.35156 14.1952,19.69888 21.8806,43.34068 21.9824,67.62109 0.1018,-24.28041 7.7873,-47.92221 21.9824,-67.62109 C 835.2384,102.36837 826.8748,87.77671 826.8638,72 Z"/>
     <circle
-      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
       id="symbol-v1.0-eye-1"
+      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
       cx="867.36334"
       cy="71.999817"
       r="27.5"/>
     <circle
-      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
       id="symbol-v1.0-eye-1d"
+      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
       cx="-786.36334"
       cy="71.999817"
       r="27.5"
