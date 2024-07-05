@@ -8,9 +8,10 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="symbol.svg"
+   sodipodi:docname="symbol-drawing.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -30,17 +31,1142 @@
      inkscape:document-units="px"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="0.29082828"
-     inkscape:cx="1524.9548"
-     inkscape:cy="964.48666"
-     inkscape:window-width="1536"
-     inkscape:window-height="793"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="4092.734"
+     inkscape:cy="1735.5936"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <defs
-     id="defs1" />
+     id="defs1">
+    <linearGradient
+       id="linearGradient46"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#cdcdcd;stop-opacity:0.4025974;"
+         offset="0"
+         id="stop46" />
+      <stop
+         style="stop-color:#cdcdcd;stop-opacity:0.2012987;"
+         offset="1"
+         id="stop47" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient43"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#fff70f;stop-opacity:1;"
+         offset="0"
+         id="stop40" />
+      <stop
+         style="stop-color:#e6a500;stop-opacity:1;"
+         offset="0.76364017"
+         id="stop41" />
+      <stop
+         style="stop-color:#ff8b00;stop-opacity:1;"
+         offset="0.96364433"
+         id="stop42" />
+      <stop
+         style="stop-color:#2e2e2e;stop-opacity:1;"
+         offset="1"
+         id="stop43" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#fff70f;stop-opacity:1;"
+         offset="0"
+         id="stop19" />
+      <stop
+         style="stop-color:#e6a500;stop-opacity:1;"
+         offset="0.70909888"
+         id="stop26" />
+      <stop
+         style="stop-color:#ff8b00;stop-opacity:1;"
+         offset="0.96364433"
+         id="stop25" />
+      <stop
+         style="stop-color:#2e2e2e;stop-opacity:1;"
+         offset="1"
+         id="stop20" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19"
+       id="radialGradient20"
+       cx="4045.9519"
+       cy="1829.0626"
+       fx="4045.9519"
+       fy="1829.0626"
+       r="27.5"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient43"
+       id="radialGradient33"
+       gradientUnits="userSpaceOnUse"
+       cx="4045.9519"
+       cy="1829.0626"
+       fx="4045.9519"
+       fy="1829.0626"
+       r="27.5"
+       gradientTransform="translate(81.94628)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter39"
+       x="-0.020107637"
+       y="-0.023584106"
+       width="1.0402153"
+       height="1.0471682">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.46080002"
+         id="feGaussianBlur39" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient46"
+       id="linearGradient47"
+       x1="-4102.2979"
+       y1="1834.1133"
+       x2="-4147.1865"
+       y2="1814.7687"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient43"
+       id="radialGradient67"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(164.99936)"
+       cx="4045.9519"
+       cy="1829.0626"
+       fx="4045.9519"
+       fy="1829.0626"
+       r="27.5" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter72"
+       x="-0.011115557"
+       y="-0.013037358"
+       width="1.0222311"
+       height="1.0260747">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.2547315"
+         id="feGaussianBlur72" />
+    </filter>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient33721"
+       gradientUnits="userSpaceOnUse"
+       x="-4190.9512"
+       y="1829.0632">
+      <meshrow
+         id="meshrow33835">
+        <meshpatch
+           id="meshpatch33835">
+          <stop
+             path="c 0,7.86566  -5.34192,14.4836  -12.5957,16.4239"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33835" />
+          <stop
+             path="l -0.514004,-1.91676"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33836" />
+          <stop
+             path="c 6.40725,-1.71385  11.1257,-7.55949  11.1257,-14.5072"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33837" />
+          <stop
+             path="l 1.984,6e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33838" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33838">
+          <stop
+             path="c -1.4047,0.375737  -2.88109,0.57606  -4.40427,0.57606"
+             id="stop33839" />
+          <stop
+             path="l 0,-1.98399"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33840" />
+          <stop
+             path="c 1.34542,0  2.64951,-0.176944  3.89027,-0.50883"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33841" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33841">
+          <stop
+             path="c -4.69909,0  -8.95287,-1.90658  -12.03,-4.98836"
+             id="stop33842" />
+          <stop
+             path="l 1.40397,-1.40182"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33843" />
+          <stop
+             path="c 2.71801,2.72212  6.47535,4.40619  10.626,4.40619"
+             style="stop-color:#cdcdcd;stop-opacity:1"
+             id="stop33844" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33844">
+          <stop
+             path="c -2.06799,-2.07113  -3.60453,-4.67305  -4.38762,-7.58376"
+             id="stop33845" />
+          <stop
+             path="l 1.91602,-0.516753"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33846" />
+          <stop
+             path="c 0.6917,2.57101  2.04892,4.86928  3.87557,6.69869"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33847" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33847">
+          <stop
+             path="c -0.379816,-1.41175  -0.582389,-2.89614  -0.582389,-4.42784"
+             id="stop33848" />
+          <stop
+             path="l 1.98399,4.54747e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33849" />
+          <stop
+             path="c -4.2792e-07,1.35294  0.178931,2.6641  0.514419,3.91109"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33850" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33850">
+          <stop
+             path="c 0,-9.38884  7.61116,-17  17,-17"
+             id="stop33851" />
+          <stop
+             path="l 0,1.98399"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33852" />
+          <stop
+             path="c -8.29311,0  -15.016,6.7229  -15.016,15.016"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33853" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33853">
+          <stop
+             path="c 9.38884,0  17,7.61116  17,17"
+             id="stop33854" />
+          <stop
+             path="l -1.98399,4.54747e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33855" />
+          <stop
+             path="c 0,-8.29311  -6.7229,-15.016  -15.016,-15.016"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33856" />
+        </meshpatch>
+      </meshrow>
+      <meshrow
+         id="meshrow33856">
+        <meshpatch
+           id="meshpatch33856">
+          <stop
+             path="l -0.264414,-0.986027"
+             id="stop33857" />
+          <stop
+             path="c 5.97176,-1.59736  10.3695,-7.04569  10.3695,-13.5212"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33858" />
+          <stop
+             path="l 1.02061,-2.27374e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33859" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33859">
+          <stop
+             path="l -9.09495e-13,-1.02061"
+             id="stop33860" />
+          <stop
+             path="c 1.25397,-6.79681e-07  2.46943,-0.164919  3.62585,-0.474248"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33861" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33861">
+          <stop
+             path="l 0.722229,-0.721128"
+             id="stop33862" />
+          <stop
+             path="c 2.53327,2.5371  6.03523,4.10671  9.9038,4.10671"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33863" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33863">
+          <stop
+             path="l 0.985646,-0.265829"
+             id="stop33864" />
+          <stop
+             path="c 0.644686,2.39626  1.90966,4.53832  3.61215,6.24339"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33865" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33865">
+          <stop
+             path="l 1.02061,-4.54747e-13"
+             id="stop33866" />
+          <stop
+             path="c 3.16286e-08,1.26098  0.16677,2.48303  0.479456,3.64526"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33867" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33867">
+          <stop
+             path="l -9.09495e-13,1.02061"
+             id="stop33868" />
+          <stop
+             path="c -7.72944,2.2656e-07  -13.9954,6.26596  -13.9954,13.9954"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33869" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33869">
+          <stop
+             path="l -1.02061,-4.54747e-13"
+             id="stop33870" />
+          <stop
+             path="c -2.26559e-07,-7.72944  -6.26596,-13.9954  -13.9954,-13.9954"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33871" />
+        </meshpatch>
+      </meshrow>
+      <meshrow
+         id="meshrow33871">
+        <meshpatch
+           id="meshpatch33871">
+          <stop
+             path="l -3.62586,-13.5212"
+             id="stop33872" />
+          <stop
+             path="l 0,0"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33873" />
+          <stop
+             path="l 13.9954,2.27374e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33874" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33874">
+          <stop
+             path="l 9.09495e-13,-13.9954"
+             id="stop33875" />
+          <stop
+             path="l -4e-06,-3e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33876" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33876">
+          <stop
+             path="l 9.90377,-9.88867"
+             id="stop33877" />
+          <stop
+             path="l 3e-05,-1e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33878" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33878">
+          <stop
+             path="l 13.516,-3.64526"
+             id="stop33879" />
+          <stop
+             path="l -3e-05,-1.7e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33880" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33880">
+          <stop
+             path="l 13.9954,0"
+             id="stop33881" />
+          <stop
+             path="l 1.9e-05,-3e-06"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33882" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33882">
+          <stop
+             path="l 9.09495e-13,13.9954"
+             id="stop33883" />
+          <stop
+             path="l -1e-05,1e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33884" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch33884">
+          <stop
+             path="l -13.9954,0"
+             id="stop33885" />
+          <stop
+             path="l -1e-05,-1e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop33886" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient34971"
+       gradientUnits="userSpaceOnUse"
+       x="-4190.9512"
+       y="1829.0632"
+       gradientTransform="translate(77.052974,65.068166)">
+      <meshrow
+         id="meshrow34992">
+        <meshpatch
+           id="meshpatch34974">
+          <stop
+             path="c 0,7.86566  -5.34192,14.4836  -12.5957,16.4239"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34971" />
+          <stop
+             path="l -0.514004,-1.91676"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34972" />
+          <stop
+             path="c 6.40725,-1.71385  11.1257,-7.55949  11.1257,-14.5072"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34973" />
+          <stop
+             path="l 1.984,6e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34974" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch34977">
+          <stop
+             path="c -1.4047,0.375737  -2.88109,0.57606  -4.40427,0.57606"
+             id="stop34975" />
+          <stop
+             path="l 0,-1.98399"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34976" />
+          <stop
+             path="c 1.34542,0  2.64951,-0.176944  3.89027,-0.50883"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34977" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch34980">
+          <stop
+             path="c -4.69909,0  -8.95287,-1.90658  -12.03,-4.98836"
+             id="stop34978" />
+          <stop
+             path="l 1.40397,-1.40182"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34979" />
+          <stop
+             path="c 2.71801,2.72212  6.47535,4.40619  10.626,4.40619"
+             style="stop-color:#cdcdcd;stop-opacity:1"
+             id="stop34980" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch34983">
+          <stop
+             path="c -2.06799,-2.07113  -3.60453,-4.67305  -4.38762,-7.58376"
+             id="stop34981" />
+          <stop
+             path="l 1.91602,-0.516753"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34982" />
+          <stop
+             path="c 0.6917,2.57101  2.04892,4.86928  3.87557,6.69869"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34983" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch34986">
+          <stop
+             path="c -0.379816,-1.41175  -0.582389,-2.89614  -0.582389,-4.42784"
+             id="stop34984" />
+          <stop
+             path="l 1.98399,4.54747e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34985" />
+          <stop
+             path="c -4.2792e-07,1.35294  0.178931,2.6641  0.514419,3.91109"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34986" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch34989">
+          <stop
+             path="c 0,-9.38884  7.61116,-17  17,-17"
+             id="stop34987" />
+          <stop
+             path="l 0,1.98399"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34988" />
+          <stop
+             path="c -8.29311,0  -15.016,6.7229  -15.016,15.016"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34989" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch34992">
+          <stop
+             path="c 9.38884,0  17,7.61116  17,17"
+             id="stop34990" />
+          <stop
+             path="l -1.98399,4.54747e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34991" />
+          <stop
+             path="c 0,-8.29311  -6.7229,-15.016  -15.016,-15.016"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34992" />
+        </meshpatch>
+      </meshrow>
+      <meshrow
+         id="meshrow35007">
+        <meshpatch
+           id="meshpatch34995">
+          <stop
+             path="l -0.264414,-0.986027"
+             id="stop34993" />
+          <stop
+             path="c 5.97176,-1.59736  10.3695,-7.04569  10.3695,-13.5212"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34994" />
+          <stop
+             path="l 1.02061,-2.27374e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34995" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch34997">
+          <stop
+             path="l -9.09495e-13,-1.02061"
+             id="stop34996" />
+          <stop
+             path="c 1.25397,-6.79681e-07  2.46943,-0.164919  3.62585,-0.474248"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34997" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch34999">
+          <stop
+             path="l 0.722229,-0.721128"
+             id="stop34998" />
+          <stop
+             path="c 2.53327,2.5371  6.03523,4.10671  9.9038,4.10671"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop34999" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35001">
+          <stop
+             path="l 0.985646,-0.265829"
+             id="stop35000" />
+          <stop
+             path="c 0.644686,2.39626  1.90966,4.53832  3.61215,6.24339"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35001" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35003">
+          <stop
+             path="l 1.02061,-4.54747e-13"
+             id="stop35002" />
+          <stop
+             path="c 3.16286e-08,1.26098  0.16677,2.48303  0.479456,3.64526"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35003" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35005">
+          <stop
+             path="l -9.09495e-13,1.02061"
+             id="stop35004" />
+          <stop
+             path="c -7.72944,2.2656e-07  -13.9954,6.26596  -13.9954,13.9954"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35005" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35007">
+          <stop
+             path="l -1.02061,-4.54747e-13"
+             id="stop35006" />
+          <stop
+             path="c -2.26559e-07,-7.72944  -6.26596,-13.9954  -13.9954,-13.9954"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35007" />
+        </meshpatch>
+      </meshrow>
+      <meshrow
+         id="meshrow35022">
+        <meshpatch
+           id="meshpatch35010">
+          <stop
+             path="l -3.62586,-13.5212"
+             id="stop35008" />
+          <stop
+             path="l 0,0"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35009" />
+          <stop
+             path="l 13.9954,2.27374e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35010" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35012">
+          <stop
+             path="l 9.09495e-13,-13.9954"
+             id="stop35011" />
+          <stop
+             path="l -4e-06,-3e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35012" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35014">
+          <stop
+             path="l 9.90377,-9.88867"
+             id="stop35013" />
+          <stop
+             path="l 3e-05,-1e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35014" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35016">
+          <stop
+             path="l 13.516,-3.64526"
+             id="stop35015" />
+          <stop
+             path="l -3e-05,-1.7e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35016" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35018">
+          <stop
+             path="l 13.9954,0"
+             id="stop35017" />
+          <stop
+             path="l 1.9e-05,-3e-06"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35018" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35020">
+          <stop
+             path="l 9.09495e-13,13.9954"
+             id="stop35019" />
+          <stop
+             path="l -1e-05,1e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35020" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35022">
+          <stop
+             path="l -13.9954,0"
+             id="stop35021" />
+          <stop
+             path="l -1e-05,-1e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35022" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient43"
+       id="radialGradient35022"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(81.946137,65.068166)"
+       cx="4045.9519"
+       cy="1829.0626"
+       fx="4045.9519"
+       fy="1829.0626"
+       r="27.5" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient35023"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-6.0002504,65.068166)"
+       x="-4190.9512"
+       y="1829.0632">
+      <meshrow
+         id="meshrow35044">
+        <meshpatch
+           id="meshpatch35026">
+          <stop
+             path="c 0,7.86566  -5.34192,14.4836  -12.5957,16.4239"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35023" />
+          <stop
+             path="l -0.514004,-1.91676"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35024" />
+          <stop
+             path="c 6.40725,-1.71385  11.1257,-7.55949  11.1257,-14.5072"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35025" />
+          <stop
+             path="l 1.984,6e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35026" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35029">
+          <stop
+             path="c -1.4047,0.375737  -2.88109,0.57606  -4.40427,0.57606"
+             id="stop35027" />
+          <stop
+             path="l 0,-1.98399"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35028" />
+          <stop
+             path="c 1.34542,0  2.64951,-0.176944  3.89027,-0.50883"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35029" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35032">
+          <stop
+             path="c -4.69909,0  -8.95287,-1.90658  -12.03,-4.98836"
+             id="stop35030" />
+          <stop
+             path="l 1.40397,-1.40182"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35031" />
+          <stop
+             path="c 2.71801,2.72212  6.47535,4.40619  10.626,4.40619"
+             style="stop-color:#cdcdcd;stop-opacity:1"
+             id="stop35032" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35035">
+          <stop
+             path="c -2.06799,-2.07113  -3.60453,-4.67305  -4.38762,-7.58376"
+             id="stop35033" />
+          <stop
+             path="l 1.91602,-0.516753"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35034" />
+          <stop
+             path="c 0.6917,2.57101  2.04892,4.86928  3.87557,6.69869"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35035" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35038">
+          <stop
+             path="c -0.379816,-1.41175  -0.582389,-2.89614  -0.582389,-4.42784"
+             id="stop35036" />
+          <stop
+             path="l 1.98399,4.54747e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35037" />
+          <stop
+             path="c -4.2792e-07,1.35294  0.178931,2.6641  0.514419,3.91109"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35038" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35041">
+          <stop
+             path="c 0,-9.38884  7.61116,-17  17,-17"
+             id="stop35039" />
+          <stop
+             path="l 0,1.98399"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35040" />
+          <stop
+             path="c -8.29311,0  -15.016,6.7229  -15.016,15.016"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35041" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35044">
+          <stop
+             path="c 9.38884,0  17,7.61116  17,17"
+             id="stop35042" />
+          <stop
+             path="l -1.98399,4.54747e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35043" />
+          <stop
+             path="c 0,-8.29311  -6.7229,-15.016  -15.016,-15.016"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35044" />
+        </meshpatch>
+      </meshrow>
+      <meshrow
+         id="meshrow35059">
+        <meshpatch
+           id="meshpatch35047">
+          <stop
+             path="l -0.264414,-0.986027"
+             id="stop35045" />
+          <stop
+             path="c 5.97176,-1.59736  10.3695,-7.04569  10.3695,-13.5212"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35046" />
+          <stop
+             path="l 1.02061,-2.27374e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35047" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35049">
+          <stop
+             path="l -9.09495e-13,-1.02061"
+             id="stop35048" />
+          <stop
+             path="c 1.25397,-6.79681e-07  2.46943,-0.164919  3.62585,-0.474248"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35049" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35051">
+          <stop
+             path="l 0.722229,-0.721128"
+             id="stop35050" />
+          <stop
+             path="c 2.53327,2.5371  6.03523,4.10671  9.9038,4.10671"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35051" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35053">
+          <stop
+             path="l 0.985646,-0.265829"
+             id="stop35052" />
+          <stop
+             path="c 0.644686,2.39626  1.90966,4.53832  3.61215,6.24339"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35053" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35055">
+          <stop
+             path="l 1.02061,-4.54747e-13"
+             id="stop35054" />
+          <stop
+             path="c 3.16286e-08,1.26098  0.16677,2.48303  0.479456,3.64526"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35055" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35057">
+          <stop
+             path="l -9.09495e-13,1.02061"
+             id="stop35056" />
+          <stop
+             path="c -7.72944,2.2656e-07  -13.9954,6.26596  -13.9954,13.9954"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35057" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35059">
+          <stop
+             path="l -1.02061,-4.54747e-13"
+             id="stop35058" />
+          <stop
+             path="c -2.26559e-07,-7.72944  -6.26596,-13.9954  -13.9954,-13.9954"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35059" />
+        </meshpatch>
+      </meshrow>
+      <meshrow
+         id="meshrow35074">
+        <meshpatch
+           id="meshpatch35062">
+          <stop
+             path="l -3.62586,-13.5212"
+             id="stop35060" />
+          <stop
+             path="l 0,0"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35061" />
+          <stop
+             path="l 13.9954,2.27374e-13"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35062" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35064">
+          <stop
+             path="l 9.09495e-13,-13.9954"
+             id="stop35063" />
+          <stop
+             path="l -4e-06,-3e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35064" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35066">
+          <stop
+             path="l 9.90377,-9.88867"
+             id="stop35065" />
+          <stop
+             path="l 3e-05,-1e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35066" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35068">
+          <stop
+             path="l 13.516,-3.64526"
+             id="stop35067" />
+          <stop
+             path="l -3e-05,-1.7e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35068" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35070">
+          <stop
+             path="l 13.9954,0"
+             id="stop35069" />
+          <stop
+             path="l 1.9e-05,-3e-06"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35070" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35072">
+          <stop
+             path="l 9.09495e-13,13.9954"
+             id="stop35071" />
+          <stop
+             path="l -1e-05,1e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35072" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch35074">
+          <stop
+             path="l -13.9954,0"
+             id="stop35073" />
+          <stop
+             path="l -1e-05,-1e-05"
+             style="stop-color:#2e2e2e;stop-opacity:1"
+             id="stop35074" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient43"
+       id="radialGradient35074"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(164.99936,65.068166)"
+       cx="4045.9519"
+       cy="1829.0626"
+       fx="4045.9519"
+       fy="1829.0626"
+       r="27.5" />
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     x="2992"
+     y="1443.2438"
+     id="text18"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan18"
+       x="2992"
+       y="1443.2438">head sketches</tspan><tspan
+       sodipodi:role="line"
+       id="tspan19"
+       x="2992"
+       y="1523.2438" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     x="3792"
+     y="1443.1188"
+     id="text20"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan20"
+       x="3792"
+       y="1443.1188">eye sketches</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     x="2992"
+     y="5067.9136"
+     id="text21"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan21"
+       x="2992"
+       y="5067.9136">wing sketches</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
+     x="2992"
+     y="49.855999"
+     id="text22"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan22"
+       x="2992"
+       y="49.855999">tail sketches</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     x="3218.2517"
+     y="2119.3601"
+     id="text26"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan32"
+       x="3218.2517"
+       y="2119.3601">head inner:</tspan><tspan
+       sodipodi:role="line"
+       id="tspan33"
+       x="3218.2517"
+       y="2199.3601">- 233N12</tspan><tspan
+       sodipodi:role="line"
+       id="tspan34"
+       x="3218.2517"
+       y="2279.3601">- 89N10</tspan><tspan
+       sodipodi:role="line"
+       id="tspan35"
+       x="3218.2517"
+       y="2359.3601">head outer:</tspan><tspan
+       sodipodi:role="line"
+       id="tspan36"
+       x="3218.2517"
+       y="2439.3601">- 233N12</tspan><tspan
+       sodipodi:role="line"
+       id="tspan37"
+       x="3218.2517"
+       y="2519.3601">- 144N11</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     x="3857.6458"
+     y="2122.4185"
+     id="text43"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan43"
+       x="3857.6458"
+       y="2122.4185">eye inner:</tspan><tspan
+       sodipodi:role="line"
+       id="tspan44"
+       x="3857.6458"
+       y="2202.4185">- 55N9</tspan><tspan
+       sodipodi:role="line"
+       id="tspan45"
+       x="3857.6458"
+       y="2282.4185">eye outer:</tspan><tspan
+       sodipodi:role="line"
+       id="tspan46"
+       x="3857.6458"
+       y="2362.4185">- 89N10</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
+     x="3388.4558"
+     y="338.62277"
+     id="text86"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan87"
+       x="3388.4558"
+       y="338.62277">tail:</tspan><tspan
+       sodipodi:role="line"
+       id="tspan88"
+       x="3388.4558"
+       y="418.62277">- 377N13</tspan><tspan
+       sodipodi:role="line"
+       id="tspan89"
+       x="3388.4558"
+       y="498.62277">- 610N14</tspan><tspan
+       sodipodi:role="line"
+       id="tspan90"
+       x="3388.4558"
+       y="578.6228">- 987N15</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
+     x="4592"
+     y="49.855999"
+     id="text111"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan111"
+       x="4592"
+       y="49.855999">claws sketches</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
+     x="4828.2461"
+     y="241.66277"
+     id="text166"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan169"
+       x="4828.2461"
+       y="241.66277">claws:</tspan><tspan
+       sodipodi:role="line"
+       id="tspan170"
+       x="4828.2461"
+       y="321.66278">- 34N8</tspan><tspan
+       sodipodi:role="line"
+       id="tspan171"
+       x="4828.2461"
+       y="401.66278">- 55N9</tspan><tspan
+       sodipodi:role="line"
+       id="tspan172"
+       x="4828.2461"
+       y="481.66278">- 89N10</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     x="4592"
+     y="1453.9988"
+     id="text185"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       x="4592"
+       y="1453.9988"
+       id="tspan186">beak sketches</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
+     x="1524.3937"
+     y="68.096001"
+     id="text494"><tspan
+       sodipodi:role="line"
+       id="tspan494"
+       x="1524.3937"
+       y="68.096001">symbol</tspan></text>
   <circle
      style="fill:#666666;fill-opacity:0.396875;stroke:none;stroke-width:0.995455;paint-order:markers fill stroke"
      id="fibonacci-2584"
@@ -539,27 +1665,24 @@
   <circle
      style="fill:#0000ff;fill-opacity:0.6;stroke:none;stroke-width:0.0342862;paint-order:markers fill stroke"
      id="circle52"
-     cx="-3836.5"
+     cx="3836.5"
      cy="1829.0626"
      r="44.5"
-     inkscape:label="eye"
-     transform="scale(-1,1)" />
+     inkscape:label="eye" />
   <circle
      style="fill:#ff6600;fill-opacity:0.5;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
      id="circle53"
-     cx="-3832.5"
+     cx="3832.5"
      cy="1829.0626"
      r="27.5"
-     inkscape:label="eye"
-     transform="scale(-1,1)" />
+     inkscape:label="eye" />
   <circle
      id="circle54"
-     cx="-3870.5"
+     cx="3870.5"
      cy="1829.0626"
      r="10.5"
      style="font-variation-settings:normal;vector-effect:none;fill:#0000ff;fill-opacity:0.8;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
-     inkscape:label="n7"
-     transform="scale(-1,1)" />
+     inkscape:label="n7" />
   <rect
      style="fill:#000000;fill-opacity:0.50108;stroke-width:0.318027;-inkscape-stroke:none;paint-order:markers fill stroke"
      id="rect7"
@@ -961,165 +2084,6 @@
      cy="1133.2574"
      r="27.5"
      inkscape:label="n9" />
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
-     x="2992"
-     y="1443.2438"
-     id="text18"
-     sodipodi:insensitive="true"><tspan
-       sodipodi:role="line"
-       id="tspan18"
-       x="2992"
-       y="1443.2438">head sketches</tspan><tspan
-       sodipodi:role="line"
-       id="tspan19"
-       x="2992"
-       y="1523.2438" /></text>
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
-     x="3792"
-     y="1443.1188"
-     id="text20"
-     sodipodi:insensitive="true"><tspan
-       sodipodi:role="line"
-       id="tspan20"
-       x="3792"
-       y="1443.1188">eye sketches</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
-     x="2992"
-     y="5067.9136"
-     id="text21"
-     sodipodi:insensitive="true"><tspan
-       sodipodi:role="line"
-       id="tspan21"
-       x="2992"
-       y="5067.9136">wing sketches</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
-     x="2992"
-     y="49.855999"
-     id="text22"
-     sodipodi:insensitive="true"><tspan
-       sodipodi:role="line"
-       id="tspan22"
-       x="2992"
-       y="49.855999">tail sketches</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
-     x="3218.2517"
-     y="2119.3601"
-     id="text26"
-     sodipodi:insensitive="true"><tspan
-       sodipodi:role="line"
-       id="tspan32"
-       x="3218.2517"
-       y="2119.3601">head inner:</tspan><tspan
-       sodipodi:role="line"
-       id="tspan33"
-       x="3218.2517"
-       y="2199.3601">- 233N12</tspan><tspan
-       sodipodi:role="line"
-       id="tspan34"
-       x="3218.2517"
-       y="2279.3601">- 89N10</tspan><tspan
-       sodipodi:role="line"
-       id="tspan35"
-       x="3218.2517"
-       y="2359.3601">head outer:</tspan><tspan
-       sodipodi:role="line"
-       id="tspan36"
-       x="3218.2517"
-       y="2439.3601">- 233N12</tspan><tspan
-       sodipodi:role="line"
-       id="tspan37"
-       x="3218.2517"
-       y="2519.3601">- 144N11</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
-     x="3857.6458"
-     y="2122.4185"
-     id="text43"
-     sodipodi:insensitive="true"><tspan
-       sodipodi:role="line"
-       id="tspan43"
-       x="3857.6458"
-       y="2122.4185">eye inner:</tspan><tspan
-       sodipodi:role="line"
-       id="tspan44"
-       x="3857.6458"
-       y="2202.4185">- 55N9</tspan><tspan
-       sodipodi:role="line"
-       id="tspan45"
-       x="3857.6458"
-       y="2282.4185">eye outer:</tspan><tspan
-       sodipodi:role="line"
-       id="tspan46"
-       x="3857.6458"
-       y="2362.4185">- 89N10</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
-     x="3388.4558"
-     y="338.62277"
-     id="text86"
-     sodipodi:insensitive="true"><tspan
-       sodipodi:role="line"
-       id="tspan87"
-       x="3388.4558"
-       y="338.62277">tail:</tspan><tspan
-       sodipodi:role="line"
-       id="tspan88"
-       x="3388.4558"
-       y="418.62277">- 377N13</tspan><tspan
-       sodipodi:role="line"
-       id="tspan89"
-       x="3388.4558"
-       y="498.62277">- 610N14</tspan><tspan
-       sodipodi:role="line"
-       id="tspan90"
-       x="3388.4558"
-       y="578.6228">- 987N15</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
-     x="4592"
-     y="49.855999"
-     id="text111"
-     sodipodi:insensitive="true"><tspan
-       sodipodi:role="line"
-       id="tspan111"
-       x="4592"
-       y="49.855999">claws sketches</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
-     x="4828.2461"
-     y="241.66277"
-     id="text166"
-     sodipodi:insensitive="true"><tspan
-       sodipodi:role="line"
-       id="tspan169"
-       x="4828.2461"
-       y="241.66277">claws:</tspan><tspan
-       sodipodi:role="line"
-       id="tspan170"
-       x="4828.2461"
-       y="321.66278">- 34N8</tspan><tspan
-       sodipodi:role="line"
-       id="tspan171"
-       x="4828.2461"
-       y="401.66278">- 55N9</tspan><tspan
-       sodipodi:role="line"
-       id="tspan172"
-       x="4828.2461"
-       y="481.66278">- 89N10</tspan></text>
   <rect
      style="fill:#000000;fill-opacity:0.50108;stroke-width:0.318027;-inkscape-stroke:none;paint-order:markers fill stroke"
      id="rect174"
@@ -1158,17 +2122,6 @@
      cy="1750.5626"
      r="44.5"
      inkscape:label="head inner b" />
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
-     x="4592"
-     y="1453.9988"
-     id="text185"
-     sodipodi:insensitive="true"><tspan
-       sodipodi:role="line"
-       x="4592"
-       y="1453.9988"
-       id="tspan186">beak sketches</tspan></text>
   <circle
      style="fill:#666666;fill-opacity:0.396875;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
      id="circle187"
@@ -1462,16 +2415,6 @@
      y="903.66382"
      ry="4.3472239e-05"
      sodipodi:insensitive="true" />
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;line-height:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.196558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
-     x="1524.3937"
-     y="68.096001"
-     id="text494"><tspan
-       sodipodi:role="line"
-       id="tspan494"
-       x="1524.3937"
-       y="68.096001">symbol</tspan></text>
   <rect
      style="fill:#000000;fill-opacity:0.50108;stroke-width:0.318027;-inkscape-stroke:none;paint-order:markers fill stroke"
      id="rect494"
@@ -1954,4 +2897,150 @@
      inkscape:transform-center-y="82.37795"
      transform="rotate(45)"
      inkscape:transform-center-x="82.377825" />
+  <circle
+     style="fill:url(#radialGradient20);fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+     id="circle1"
+     cx="4045.9519"
+     cy="1829.0626"
+     r="27.5"
+     inkscape:label="eye" />
+  <circle
+     style="fill:#f84a00;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+     id="circle2"
+     cx="-4045.9519"
+     cy="1740.0626"
+     r="27.5"
+     inkscape:label="eye"
+     transform="scale(-1,1)" />
+  <circle
+     style="fill:#ff8b00;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+     id="circle3"
+     cx="-4100.9521"
+     cy="1740.0626"
+     r="27.5"
+     inkscape:label="eye"
+     transform="scale(-1,1)" />
+  <circle
+     style="fill:#e6a500;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+     id="circle4"
+     cx="-4155.9521"
+     cy="1740.0626"
+     r="27.5"
+     inkscape:label="eye"
+     transform="scale(-1,1)" />
+  <circle
+     style="fill:#fff70f;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+     id="circle5"
+     cx="-4210.9521"
+     cy="1740.0626"
+     r="27.5"
+     inkscape:label="eye"
+     transform="scale(-1,1)" />
+  <circle
+     style="fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+     id="circle10"
+     cx="-4265.9521"
+     cy="1740.0626"
+     r="27.5"
+     inkscape:label="eye"
+     transform="scale(-1,1)" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:normal;font-family:Sans;-inkscape-font-specification:'Sans, Medium Italic';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.50108;stroke:none;stroke-width:0.318026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
+     x="4036.0493"
+     y="1696.4828"
+     id="text10"><tspan
+       sodipodi:role="line"
+       id="tspan11"
+       x="4036.0493"
+       y="1696.4828">[PUB-2] pallete</tspan></text>
+  <circle
+     style="fill:#cdcdcd;fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+     id="circle11"
+     cx="-4320.9521"
+     cy="1740.0626"
+     r="27.5"
+     inkscape:label="eye"
+     transform="scale(-1,1)" />
+  <circle
+     style="fill:url(#radialGradient33);fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+     id="circle33"
+     cx="4127.8979"
+     cy="1829.0626"
+     r="27.5"
+     inkscape:label="eye" />
+  <path
+     id="circle35"
+     style="mix-blend-mode:overlay;fill:url(#linearGradient47);fill-opacity:1;stroke:none;stroke-width:0.261818;paint-order:markers fill stroke;filter:url(#filter39)"
+     inkscape:label="eye"
+     d="m -4145.6836,1809.6699 a 72,72 0 0 1 46.9531,18.7852 27.5,27.5 0 0 1 0.043,0.6074 27.5,27.5 0 0 1 -27.5,27.5 27.5,27.5 0 0 1 -27.5,-27.5 27.5,27.5 0 0 1 8.0039,-19.3926 z"
+     transform="matrix(-1,0,0,1,1.7115661,0)" />
+  <circle
+     style="fill:url(#radialGradient67);fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+     id="circle67"
+     cx="4210.9512"
+     cy="1829.0626"
+     r="27.5"
+     inkscape:label="eye" />
+  <path
+     id="path67"
+     style="opacity:0.5;mix-blend-mode:overlay;fill:#cdcdcd;fill-opacity:1;stroke:none;stroke-width:0.261818;paint-order:markers fill stroke;filter:url(#filter72)"
+     inkscape:label="eye"
+     d="m -4145.6836,1809.6699 a 72,72 0 0 1 46.9531,18.7852 27.5,27.5 0 0 1 0.043,0.6074 27.5,27.5 0 0 1 -27.5,27.5 27.5,27.5 0 0 1 -27.5,-27.5 27.5,27.5 0 0 1 8.0039,-19.3926 z"
+     transform="matrix(-0.9549613,0,0,0.9549613,270.60275,82.561164)" />
+  <circle
+     style="fill:url(#meshgradient33721);fill-opacity:1;stroke:none;stroke-width:0.0618182;paint-order:markers fill stroke"
+     id="circle68"
+     cx="-4207.9512"
+     cy="1829.0632"
+     r="17"
+     inkscape:label="eye"
+     transform="scale(-1,1)" />
+  <circle
+     style="fill:url(#radialGradient35022);fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+     id="circle34970"
+     cx="4127.8979"
+     cy="1894.1307"
+     r="27.5"
+     inkscape:label="eye" />
+  <path
+     id="path34970"
+     style="opacity:0.5;mix-blend-mode:overlay;fill:#cdcdcd;fill-opacity:1;stroke:none;stroke-width:0.261818;paint-order:markers fill stroke;filter:url(#filter72)"
+     inkscape:label="eye"
+     d="m -4145.6836,1809.6699 a 72,72 0 0 1 46.9531,18.7852 27.5,27.5 0 0 1 0.043,0.6074 27.5,27.5 0 0 1 -27.5,27.5 27.5,27.5 0 0 1 -27.5,-27.5 27.5,27.5 0 0 1 8.0039,-19.3926 z"
+     transform="matrix(-0.9549613,0,0,0.9549613,187.54952,147.62933)" />
+  <circle
+     style="fill:url(#meshgradient34971);fill-opacity:1;stroke:none;stroke-width:0.0618182;paint-order:markers fill stroke"
+     id="circle34971"
+     cx="-4130.8984"
+     cy="1894.1313"
+     r="17"
+     inkscape:label="eye"
+     transform="scale(-1,1)" />
+  <circle
+     style="fill:url(#radialGradient35074);fill-opacity:1;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+     id="circle35022"
+     cx="4210.9512"
+     cy="1894.1307"
+     r="27.5"
+     inkscape:label="eye" />
+  <path
+     id="path35022"
+     style="opacity:0.5;mix-blend-mode:overlay;fill:#cdcdcd;fill-opacity:1;stroke:none;stroke-width:0.261818;paint-order:markers fill stroke;filter:url(#filter72)"
+     inkscape:label="eye"
+     d="m -4145.6836,1809.6699 a 72,72 0 0 1 46.9531,18.7852 27.5,27.5 0 0 1 0.043,0.6074 27.5,27.5 0 0 1 -27.5,27.5 27.5,27.5 0 0 1 -27.5,-27.5 27.5,27.5 0 0 1 8.0039,-19.3926 z"
+     transform="matrix(0.9549613,0,0,0.9549613,8151.3015,147.62933)" />
+  <circle
+     style="fill:url(#meshgradient35023);fill-opacity:1;stroke:none;stroke-width:0.0618182;paint-order:markers fill stroke"
+     id="circle35023"
+     cx="-4213.9517"
+     cy="1894.1313"
+     r="17"
+     inkscape:label="eye"
+     transform="scale(-1,1)" />
+  <script
+     id="mesh_polyfill"
+     type="text/javascript">
+!function(){const t=&quot;http://www.w3.org/2000/svg&quot;,e=&quot;http://www.w3.org/1999/xlink&quot;,s=&quot;http://www.w3.org/1999/xhtml&quot;,r=2;if(document.createElementNS(t,&quot;meshgradient&quot;).x)return;const n=(t,e,s,r)=&gt;{let n=new x(.5*(e.x+s.x),.5*(e.y+s.y)),o=new x(.5*(t.x+e.x),.5*(t.y+e.y)),i=new x(.5*(s.x+r.x),.5*(s.y+r.y)),a=new x(.5*(n.x+o.x),.5*(n.y+o.y)),h=new x(.5*(n.x+i.x),.5*(n.y+i.y)),l=new x(.5*(a.x+h.x),.5*(a.y+h.y));return[[t,o,a,l],[l,h,i,r]]},o=t=&gt;{let e=t[0].distSquared(t[1]),s=t[2].distSquared(t[3]),r=.25*t[0].distSquared(t[2]),n=.25*t[1].distSquared(t[3]),o=e&gt;s?e:s,i=r&gt;n?r:n;return 18*(o&gt;i?o:i)},i=(t,e)=&gt;Math.sqrt(t.distSquared(e)),a=(t,e)=&gt;t.scale(2/3).add(e.scale(1/3)),h=t=&gt;{let e,s,r,n,o,i,a,h=new g;return t.match(/(\w+\(\s*[^)]+\))+/g).forEach(t=&gt;{let l=t.match(/[\w.-]+/g),d=l.shift();switch(d){case&quot;translate&quot;:2===l.length?e=new g(1,0,0,1,l[0],l[1]):(console.error(&quot;mesh.js: translate does not have 2 arguments!&quot;),e=new g(1,0,0,1,0,0)),h=h.append(e);break;case&quot;scale&quot;:1===l.length?s=new g(l[0],0,0,l[0],0,0):2===l.length?s=new g(l[0],0,0,l[1],0,0):(console.error(&quot;mesh.js: scale does not have 1 or 2 arguments!&quot;),s=new g(1,0,0,1,0,0)),h=h.append(s);break;case&quot;rotate&quot;:if(3===l.length&amp;&amp;(e=new g(1,0,0,1,l[1],l[2]),h=h.append(e)),l[0]){r=l[0]*Math.PI/180;let t=Math.cos(r),e=Math.sin(r);Math.abs(t)&lt;1e-16&amp;&amp;(t=0),Math.abs(e)&lt;1e-16&amp;&amp;(e=0),a=new g(t,e,-e,t,0,0),h=h.append(a)}else console.error(&quot;math.js: No argument to rotate transform!&quot;);3===l.length&amp;&amp;(e=new g(1,0,0,1,-l[1],-l[2]),h=h.append(e));break;case&quot;skewX&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),o=new g(1,0,n,1,0,0),h=h.append(o)):console.error(&quot;math.js: No argument to skewX transform!&quot;);break;case&quot;skewY&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),i=new g(1,n,0,1,0,0),h=h.append(i)):console.error(&quot;math.js: No argument to skewY transform!&quot;);break;case&quot;matrix&quot;:6===l.length?h=h.append(new g(...l)):console.error(&quot;math.js: Incorrect number of arguments for matrix!&quot;);break;default:console.error(&quot;mesh.js: Unhandled transform type: &quot;+d)}}),h},l=t=&gt;{let e=[],s=t.split(/[ ,]+/);for(let t=0,r=s.length-1;t&lt;r;t+=2)e.push(new x(parseFloat(s[t]),parseFloat(s[t+1])));return e},d=(t,e)=&gt;{for(let s in e)t.setAttribute(s,e[s])},c=(t,e,s,r,n)=&gt;{let o,i,a=[0,0,0,0];for(let h=0;h&lt;3;++h)e[h]&lt;t[h]&amp;&amp;e[h]&lt;s[h]||t[h]&lt;e[h]&amp;&amp;s[h]&lt;e[h]?a[h]=0:(a[h]=.5*((e[h]-t[h])/r+(s[h]-e[h])/n),o=Math.abs(3*(e[h]-t[h])/r),i=Math.abs(3*(s[h]-e[h])/n),a[h]&gt;o?a[h]=o:a[h]&gt;i&amp;&amp;(a[h]=i));return a},u=[[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0],[-3,3,0,0,-2,-1,0,0,0,0,0,0,0,0,0,0],[2,-2,0,0,1,1,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0],[0,0,0,0,0,0,0,0,-3,3,0,0,-2,-1,0,0],[0,0,0,0,0,0,0,0,2,-2,0,0,1,1,0,0],[-3,0,3,0,0,0,0,0,-2,0,-1,0,0,0,0,0],[0,0,0,0,-3,0,3,0,0,0,0,0,-2,0,-1,0],[9,-9,-9,9,6,3,-6,-3,6,-6,3,-3,4,2,2,1],[-6,6,6,-6,-3,-3,3,3,-4,4,-2,2,-2,-2,-1,-1],[2,0,-2,0,0,0,0,0,1,0,1,0,0,0,0,0],[0,0,0,0,2,0,-2,0,0,0,0,0,1,0,1,0],[-6,6,6,-6,-4,-2,4,2,-3,3,-3,3,-2,-1,-2,-1],[4,-4,-4,4,2,2,-2,-2,2,-2,2,-2,1,1,1,1]],f=t=&gt;{let e=[];for(let s=0;s&lt;16;++s){e[s]=0;for(let r=0;r&lt;16;++r)e[s]+=u[s][r]*t[r]}return e},p=(t,e,s)=&gt;{const r=e*e,n=s*s,o=e*e*e,i=s*s*s;return t[0]+t[1]*e+t[2]*r+t[3]*o+t[4]*s+t[5]*s*e+t[6]*s*r+t[7]*s*o+t[8]*n+t[9]*n*e+t[10]*n*r+t[11]*n*o+t[12]*i+t[13]*i*e+t[14]*i*r+t[15]*i*o},y=t=&gt;{let e=[],s=[],r=[];for(let s=0;s&lt;4;++s)e[s]=[],e[s][0]=n(t[0][s],t[1][s],t[2][s],t[3][s]),e[s][1]=[],e[s][1].push(...n(...e[s][0][0])),e[s][1].push(...n(...e[s][0][1])),e[s][2]=[],e[s][2].push(...n(...e[s][1][0])),e[s][2].push(...n(...e[s][1][1])),e[s][2].push(...n(...e[s][1][2])),e[s][2].push(...n(...e[s][1][3]));for(let t=0;t&lt;8;++t){s[t]=[];for(let r=0;r&lt;4;++r)s[t][r]=[],s[t][r][0]=n(e[0][2][t][r],e[1][2][t][r],e[2][2][t][r],e[3][2][t][r]),s[t][r][1]=[],s[t][r][1].push(...n(...s[t][r][0][0])),s[t][r][1].push(...n(...s[t][r][0][1])),s[t][r][2]=[],s[t][r][2].push(...n(...s[t][r][1][0])),s[t][r][2].push(...n(...s[t][r][1][1])),s[t][r][2].push(...n(...s[t][r][1][2])),s[t][r][2].push(...n(...s[t][r][1][3]))}for(let t=0;t&lt;8;++t){r[t]=[];for(let e=0;e&lt;8;++e)r[t][e]=[],r[t][e][0]=s[t][0][2][e],r[t][e][1]=s[t][1][2][e],r[t][e][2]=s[t][2][2][e],r[t][e][3]=s[t][3][2][e]}return r};class x{constructor(t,e){this.x=t||0,this.y=e||0}toString(){return`(x=${this.x}, y=${this.y})`}clone(){return new x(this.x,this.y)}add(t){return new x(this.x+t.x,this.y+t.y)}scale(t){return void 0===t.x?new x(this.x*t,this.y*t):new x(this.x*t.x,this.y*t.y)}distSquared(t){let e=this.x-t.x,s=this.y-t.y;return e*e+s*s}transform(t){let e=this.x*t.a+this.y*t.c+t.e,s=this.x*t.b+this.y*t.d+t.f;return new x(e,s)}}class g{constructor(t,e,s,r,n,o){void 0===t?(this.a=1,this.b=0,this.c=0,this.d=1,this.e=0,this.f=0):(this.a=t,this.b=e,this.c=s,this.d=r,this.e=n,this.f=o)}toString(){return`affine: ${this.a} ${this.c} ${this.e} \n       ${this.b} ${this.d} ${this.f}`}append(t){t instanceof g||console.error(&quot;mesh.js: argument to Affine.append is not affine!&quot;);let e=this.a*t.a+this.c*t.b,s=this.b*t.a+this.d*t.b,r=this.a*t.c+this.c*t.d,n=this.b*t.c+this.d*t.d,o=this.a*t.e+this.c*t.f+this.e,i=this.b*t.e+this.d*t.f+this.f;return new g(e,s,r,n,o,i)}}class w{constructor(t,e){this.nodes=t,this.colors=e}paintCurve(t,e){if(o(this.nodes)&gt;r){const s=n(...this.nodes);let r=[[],[]],o=[[],[]];for(let t=0;t&lt;4;++t)r[0][t]=this.colors[0][t],r[1][t]=(this.colors[0][t]+this.colors[1][t])/2,o[0][t]=r[1][t],o[1][t]=this.colors[1][t];let i=new w(s[0],r),a=new w(s[1],o);i.paintCurve(t,e),a.paintCurve(t,e)}else{let s=Math.round(this.nodes[0].x);if(s&gt;=0&amp;&amp;s&lt;e){let r=4*(~~this.nodes[0].y*e+s);t[r]=Math.round(this.colors[0][0]),t[r+1]=Math.round(this.colors[0][1]),t[r+2]=Math.round(this.colors[0][2]),t[r+3]=Math.round(this.colors[0][3])}}}}class m{constructor(t,e){this.nodes=t,this.colors=e}split(){let t=[[],[],[],[]],e=[[],[],[],[]],s=[[[],[]],[[],[]]],r=[[[],[]],[[],[]]];for(let s=0;s&lt;4;++s){const r=n(this.nodes[0][s],this.nodes[1][s],this.nodes[2][s],this.nodes[3][s]);t[0][s]=r[0][0],t[1][s]=r[0][1],t[2][s]=r[0][2],t[3][s]=r[0][3],e[0][s]=r[1][0],e[1][s]=r[1][1],e[2][s]=r[1][2],e[3][s]=r[1][3]}for(let t=0;t&lt;4;++t)s[0][0][t]=this.colors[0][0][t],s[0][1][t]=this.colors[0][1][t],s[1][0][t]=(this.colors[0][0][t]+this.colors[1][0][t])/2,s[1][1][t]=(this.colors[0][1][t]+this.colors[1][1][t])/2,r[0][0][t]=s[1][0][t],r[0][1][t]=s[1][1][t],r[1][0][t]=this.colors[1][0][t],r[1][1][t]=this.colors[1][1][t];return[new m(t,s),new m(e,r)]}paint(t,e){let s,n=!1;for(let t=0;t&lt;4;++t)if((s=o([this.nodes[0][t],this.nodes[1][t],this.nodes[2][t],this.nodes[3][t]]))&gt;r){n=!0;break}if(n){let s=this.split();s[0].paint(t,e),s[1].paint(t,e)}else{new w([...this.nodes[0]],[...this.colors[0]]).paintCurve(t,e)}}}class b{constructor(t){this.readMesh(t),this.type=t.getAttribute(&quot;type&quot;)||&quot;bilinear&quot;}readMesh(t){let e=[[]],s=[[]],r=Number(t.getAttribute(&quot;x&quot;)),n=Number(t.getAttribute(&quot;y&quot;));e[0][0]=new x(r,n);let o=t.children;for(let t=0,r=o.length;t&lt;r;++t){e[3*t+1]=[],e[3*t+2]=[],e[3*t+3]=[],s[t+1]=[];let r=o[t].children;for(let n=0,o=r.length;n&lt;o;++n){let o=r[n].children;for(let r=0,i=o.length;r&lt;i;++r){let i=r;0!==t&amp;&amp;++i;let h,d=o[r].getAttribute(&quot;path&quot;),c=&quot;l&quot;;null!=d&amp;&amp;(c=(h=d.match(/\s*([lLcC])\s*(.*)/))[1]);let u=l(h[2]);switch(c){case&quot;l&quot;:0===i?(e[3*t][3*n+3]=u[0].add(e[3*t][3*n]),e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0].add(e[3*t+3][3*n+3])),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;L&quot;:0===i?(e[3*t][3*n+3]=u[0],e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0],e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0]),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;c&quot;:0===i?(e[3*t][3*n+1]=u[0].add(e[3*t][3*n]),e[3*t][3*n+2]=u[1].add(e[3*t][3*n]),e[3*t][3*n+3]=u[2].add(e[3*t][3*n])):1===i?(e[3*t+1][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+2][3*n+3]=u[1].add(e[3*t][3*n+3]),e[3*t+3][3*n+3]=u[2].add(e[3*t][3*n+3])):2===i?(e[3*t+3][3*n+2]=u[0].add(e[3*t+3][3*n+3]),e[3*t+3][3*n+1]=u[1].add(e[3*t+3][3*n+3]),0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2].add(e[3*t+3][3*n+3]))):(e[3*t+2][3*n]=u[0].add(e[3*t+3][3*n]),e[3*t+1][3*n]=u[1].add(e[3*t+3][3*n]));break;case&quot;C&quot;:0===i?(e[3*t][3*n+1]=u[0],e[3*t][3*n+2]=u[1],e[3*t][3*n+3]=u[2]):1===i?(e[3*t+1][3*n+3]=u[0],e[3*t+2][3*n+3]=u[1],e[3*t+3][3*n+3]=u[2]):2===i?(e[3*t+3][3*n+2]=u[0],e[3*t+3][3*n+1]=u[1],0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2])):(e[3*t+2][3*n]=u[0],e[3*t+1][3*n]=u[1]);break;default:console.error(&quot;mesh.js: &quot;+c+&quot; invalid path type.&quot;)}if(0===t&amp;&amp;0===n||r&gt;0){let e=window.getComputedStyle(o[r]).stopColor.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i),a=window.getComputedStyle(o[r]).stopOpacity,h=255;a&amp;&amp;(h=Math.floor(255*a)),e&amp;&amp;(0===i?(s[t][n]=[],s[t][n][0]=Math.floor(e[1]),s[t][n][1]=Math.floor(e[2]),s[t][n][2]=Math.floor(e[3]),s[t][n][3]=h):1===i?(s[t][n+1]=[],s[t][n+1][0]=Math.floor(e[1]),s[t][n+1][1]=Math.floor(e[2]),s[t][n+1][2]=Math.floor(e[3]),s[t][n+1][3]=h):2===i?(s[t+1][n+1]=[],s[t+1][n+1][0]=Math.floor(e[1]),s[t+1][n+1][1]=Math.floor(e[2]),s[t+1][n+1][2]=Math.floor(e[3]),s[t+1][n+1][3]=h):3===i&amp;&amp;(s[t+1][n]=[],s[t+1][n][0]=Math.floor(e[1]),s[t+1][n][1]=Math.floor(e[2]),s[t+1][n][2]=Math.floor(e[3]),s[t+1][n][3]=h))}}e[3*t+1][3*n+1]=new x,e[3*t+1][3*n+2]=new x,e[3*t+2][3*n+1]=new x,e[3*t+2][3*n+2]=new x,e[3*t+1][3*n+1].x=(-4*e[3*t][3*n].x+6*(e[3*t][3*n+1].x+e[3*t+1][3*n].x)+-2*(e[3*t][3*n+3].x+e[3*t+3][3*n].x)+3*(e[3*t+3][3*n+1].x+e[3*t+1][3*n+3].x)+-1*e[3*t+3][3*n+3].x)/9,e[3*t+1][3*n+2].x=(-4*e[3*t][3*n+3].x+6*(e[3*t][3*n+2].x+e[3*t+1][3*n+3].x)+-2*(e[3*t][3*n].x+e[3*t+3][3*n+3].x)+3*(e[3*t+3][3*n+2].x+e[3*t+1][3*n].x)+-1*e[3*t+3][3*n].x)/9,e[3*t+2][3*n+1].x=(-4*e[3*t+3][3*n].x+6*(e[3*t+3][3*n+1].x+e[3*t+2][3*n].x)+-2*(e[3*t+3][3*n+3].x+e[3*t][3*n].x)+3*(e[3*t][3*n+1].x+e[3*t+2][3*n+3].x)+-1*e[3*t][3*n+3].x)/9,e[3*t+2][3*n+2].x=(-4*e[3*t+3][3*n+3].x+6*(e[3*t+3][3*n+2].x+e[3*t+2][3*n+3].x)+-2*(e[3*t+3][3*n].x+e[3*t][3*n+3].x)+3*(e[3*t][3*n+2].x+e[3*t+2][3*n].x)+-1*e[3*t][3*n].x)/9,e[3*t+1][3*n+1].y=(-4*e[3*t][3*n].y+6*(e[3*t][3*n+1].y+e[3*t+1][3*n].y)+-2*(e[3*t][3*n+3].y+e[3*t+3][3*n].y)+3*(e[3*t+3][3*n+1].y+e[3*t+1][3*n+3].y)+-1*e[3*t+3][3*n+3].y)/9,e[3*t+1][3*n+2].y=(-4*e[3*t][3*n+3].y+6*(e[3*t][3*n+2].y+e[3*t+1][3*n+3].y)+-2*(e[3*t][3*n].y+e[3*t+3][3*n+3].y)+3*(e[3*t+3][3*n+2].y+e[3*t+1][3*n].y)+-1*e[3*t+3][3*n].y)/9,e[3*t+2][3*n+1].y=(-4*e[3*t+3][3*n].y+6*(e[3*t+3][3*n+1].y+e[3*t+2][3*n].y)+-2*(e[3*t+3][3*n+3].y+e[3*t][3*n].y)+3*(e[3*t][3*n+1].y+e[3*t+2][3*n+3].y)+-1*e[3*t][3*n+3].y)/9,e[3*t+2][3*n+2].y=(-4*e[3*t+3][3*n+3].y+6*(e[3*t+3][3*n+2].y+e[3*t+2][3*n+3].y)+-2*(e[3*t+3][3*n].y+e[3*t][3*n+3].y)+3*(e[3*t][3*n+2].y+e[3*t+2][3*n].y)+-1*e[3*t][3*n].y)/9}}this.nodes=e,this.colors=s}paintMesh(t,e){let s=(this.nodes.length-1)/3,r=(this.nodes[0].length-1)/3;if(&quot;bilinear&quot;===this.type||s&lt;2||r&lt;2){let n;for(let o=0;o&lt;s;++o)for(let s=0;s&lt;r;++s){let r=[];for(let t=3*o,e=3*o+4;t&lt;e;++t)r.push(this.nodes[t].slice(3*s,3*s+4));let i=[];i.push(this.colors[o].slice(s,s+2)),i.push(this.colors[o+1].slice(s,s+2)),(n=new m(r,i)).paint(t,e)}}else{let n,o,a,h,l,d,u;const x=s,g=r;s++,r++;let w=new Array(s);for(let t=0;t&lt;s;++t){w[t]=new Array(r);for(let e=0;e&lt;r;++e)w[t][e]=[],w[t][e][0]=this.nodes[3*t][3*e],w[t][e][1]=this.colors[t][e]}for(let t=0;t&lt;s;++t)for(let e=0;e&lt;r;++e)0!==t&amp;&amp;t!==x&amp;&amp;(n=i(w[t-1][e][0],w[t][e][0]),o=i(w[t+1][e][0],w[t][e][0]),w[t][e][2]=c(w[t-1][e][1],w[t][e][1],w[t+1][e][1],n,o)),0!==e&amp;&amp;e!==g&amp;&amp;(n=i(w[t][e-1][0],w[t][e][0]),o=i(w[t][e+1][0],w[t][e][0]),w[t][e][3]=c(w[t][e-1][1],w[t][e][1],w[t][e+1][1],n,o));for(let t=0;t&lt;r;++t){w[0][t][2]=[],w[x][t][2]=[];for(let e=0;e&lt;4;++e)n=i(w[1][t][0],w[0][t][0]),o=i(w[x][t][0],w[x-1][t][0]),w[0][t][2][e]=n&gt;0?2*(w[1][t][1][e]-w[0][t][1][e])/n-w[1][t][2][e]:0,w[x][t][2][e]=o&gt;0?2*(w[x][t][1][e]-w[x-1][t][1][e])/o-w[x-1][t][2][e]:0}for(let t=0;t&lt;s;++t){w[t][0][3]=[],w[t][g][3]=[];for(let e=0;e&lt;4;++e)n=i(w[t][1][0],w[t][0][0]),o=i(w[t][g][0],w[t][g-1][0]),w[t][0][3][e]=n&gt;0?2*(w[t][1][1][e]-w[t][0][1][e])/n-w[t][1][3][e]:0,w[t][g][3][e]=o&gt;0?2*(w[t][g][1][e]-w[t][g-1][1][e])/o-w[t][g-1][3][e]:0}for(let s=0;s&lt;x;++s)for(let r=0;r&lt;g;++r){let n=i(w[s][r][0],w[s+1][r][0]),o=i(w[s][r+1][0],w[s+1][r+1][0]),c=i(w[s][r][0],w[s][r+1][0]),x=i(w[s+1][r][0],w[s+1][r+1][0]),g=[[],[],[],[]];for(let t=0;t&lt;4;++t){(d=[])[0]=w[s][r][1][t],d[1]=w[s+1][r][1][t],d[2]=w[s][r+1][1][t],d[3]=w[s+1][r+1][1][t],d[4]=w[s][r][2][t]*n,d[5]=w[s+1][r][2][t]*n,d[6]=w[s][r+1][2][t]*o,d[7]=w[s+1][r+1][2][t]*o,d[8]=w[s][r][3][t]*c,d[9]=w[s+1][r][3][t]*x,d[10]=w[s][r+1][3][t]*c,d[11]=w[s+1][r+1][3][t]*x,d[12]=0,d[13]=0,d[14]=0,d[15]=0,u=f(d);for(let e=0;e&lt;9;++e){g[t][e]=[];for(let s=0;s&lt;9;++s)g[t][e][s]=p(u,e/8,s/8),g[t][e][s]&gt;255?g[t][e][s]=255:g[t][e][s]&lt;0&amp;&amp;(g[t][e][s]=0)}}h=[];for(let t=3*s,e=3*s+4;t&lt;e;++t)h.push(this.nodes[t].slice(3*r,3*r+4));l=y(h);for(let s=0;s&lt;8;++s)for(let r=0;r&lt;8;++r)(a=new m(l[s][r],[[[g[0][s][r],g[1][s][r],g[2][s][r],g[3][s][r]],[g[0][s][r+1],g[1][s][r+1],g[2][s][r+1],g[3][s][r+1]]],[[g[0][s+1][r],g[1][s+1][r],g[2][s+1][r],g[3][s+1][r]],[g[0][s+1][r+1],g[1][s+1][r+1],g[2][s+1][r+1],g[3][s+1][r+1]]]])).paint(t,e)}}}transform(t){if(t instanceof x)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].add(t);else if(t instanceof g)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].transform(t)}scale(t){for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].scale(t)}}document.querySelectorAll(&quot;rect,circle,ellipse,path,text&quot;).forEach((r,n)=&gt;{let o=r.getAttribute(&quot;id&quot;);o||(o=&quot;patchjs_shape&quot;+n,r.setAttribute(&quot;id&quot;,o));const i=r.style.fill.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/),a=r.style.stroke.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/);if(i&amp;&amp;i[1]){const a=document.getElementById(i[1]);if(a&amp;&amp;&quot;meshgradient&quot;===a.nodeName){const i=r.getBBox();let l=document.createElementNS(s,&quot;canvas&quot;);d(l,{width:i.width,height:i.height});const c=l.getContext(&quot;2d&quot;);let u=c.createImageData(i.width,i.height);const f=new b(a);&quot;objectBoundingBox&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.scale(new x(i.width,i.height));const p=a.getAttribute(&quot;gradientTransform&quot;);null!=p&amp;&amp;f.transform(h(p)),&quot;userSpaceOnUse&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.transform(new x(-i.x,-i.y)),f.paintMesh(u.data,l.width),c.putImageData(u,0,0);const y=document.createElementNS(t,&quot;image&quot;);d(y,{width:i.width,height:i.height,x:i.x,y:i.y});let g=l.toDataURL();y.setAttributeNS(e,&quot;xlink:href&quot;,g),r.parentNode.insertBefore(y,r),r.style.fill=&quot;none&quot;;const w=document.createElementNS(t,&quot;use&quot;);w.setAttributeNS(e,&quot;xlink:href&quot;,&quot;#&quot;+o);const m=&quot;patchjs_clip&quot;+n,M=document.createElementNS(t,&quot;clipPath&quot;);M.setAttribute(&quot;id&quot;,m),M.appendChild(w),r.parentElement.insertBefore(M,r),y.setAttribute(&quot;clip-path&quot;,&quot;url(#&quot;+m+&quot;)&quot;),u=null,l=null,g=null}}if(a&amp;&amp;a[1]){const o=document.getElementById(a[1]);if(o&amp;&amp;&quot;meshgradient&quot;===o.nodeName){const i=parseFloat(r.style.strokeWidth.slice(0,-2))*(parseFloat(r.style.strokeMiterlimit)||parseFloat(r.getAttribute(&quot;stroke-miterlimit&quot;))||1),a=r.getBBox(),l=Math.trunc(a.width+i),c=Math.trunc(a.height+i),u=Math.trunc(a.x-i/2),f=Math.trunc(a.y-i/2);let p=document.createElementNS(s,&quot;canvas&quot;);d(p,{width:l,height:c});const y=p.getContext(&quot;2d&quot;);let g=y.createImageData(l,c);const w=new b(o);&quot;objectBoundingBox&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.scale(new x(l,c));const m=o.getAttribute(&quot;gradientTransform&quot;);null!=m&amp;&amp;w.transform(h(m)),&quot;userSpaceOnUse&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.transform(new x(-u,-f)),w.paintMesh(g.data,p.width),y.putImageData(g,0,0);const M=document.createElementNS(t,&quot;image&quot;);d(M,{width:l,height:c,x:0,y:0});let S=p.toDataURL();M.setAttributeNS(e,&quot;xlink:href&quot;,S);const k=&quot;pattern_clip&quot;+n,A=document.createElementNS(t,&quot;pattern&quot;);d(A,{id:k,patternUnits:&quot;userSpaceOnUse&quot;,width:l,height:c,x:u,y:f}),A.appendChild(M),o.parentNode.appendChild(A),r.style.stroke=&quot;url(#&quot;+k+&quot;)&quot;,g=null,p=null,S=null}}})}();
+</script>
 </svg>
