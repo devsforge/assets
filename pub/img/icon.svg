@@ -1,104 +1,52 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-  width="48"
-  height="48"
-  viewBox="0 0 48 48"
-  version="1.1"
-  id="svg1"
-  inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-  sodipodi:docname="icon.svg"
-  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:svg="http://www.w3.org/2000/svg"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:cc="http://creativecommons.org/ns#"
-  xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-    id="title1">Devs Forge organization icon
-  </title>
-  <sodipodi:namedview
-    id="namedview1"
-    pagecolor="#505050"
-    bordercolor="#eeeeee"
-    borderopacity="1"
-    inkscape:showpageshadow="0"
-    inkscape:pageopacity="0"
-    inkscape:pagecheckerboard="0"
-    inkscape:deskcolor="#505050"
-    inkscape:document-units="px"
-    inkscape:zoom="16.5625"
-    inkscape:cx="24"
-    inkscape:cy="24"
-    inkscape:window-width="1920"
-    inkscape:window-height="991"
-    inkscape:window-x="-9"
-    inkscape:window-y="-9"
-    inkscape:window-maximized="1"
-    inkscape:current-layer="svg1"/>
-  <defs
-    id="defs1"/>
-  <metadata
-    id="metadata1">
-    <rdf:RDF>
-      <cc:Work
-        rdf:about="">
-        <cc:license
-          rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
-        <dc:title>Devs Forge organization icon</dc:title>
-        <dc:date>07/03/2024</dc:date>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>devsforge.org</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:rights>
-          <cc:Agent>
-            <dc:title>devsforge.org</dc:title>
-          </cc:Agent>
-        </dc:rights>
-        <dc:publisher>
-          <cc:Agent>
-            <dc:title>devsforge.org</dc:title>
-          </cc:Agent>
-        </dc:publisher>
-        <dc:identifier>devsforge-icon</dc:identifier>
-        <dc:language>en</dc:language>
-        <dc:subject>
-          <rdf:Bag>
-            <rdf:li>devsforge</rdf:li>
-            <rdf:li>logo</rdf:li>
-            <rdf:li>icon</rdf:li>
-          </rdf:Bag>
-        </dc:subject>
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title>Serhii Horodilov</dc:title>
-          </cc:Agent>
-        </dc:contributor>
-      </cc:Work>
-      <cc:License
-        rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-          rdf:resource="http://creativecommons.org/ns#Reproduction"/>
-        <cc:permits
-          rdf:resource="http://creativecommons.org/ns#Distribution"/>
-        <cc:requires
-          rdf:resource="http://creativecommons.org/ns#Notice"/>
-        <cc:requires
-          rdf:resource="http://creativecommons.org/ns#Attribution"/>
-        <cc:permits
-          rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
-        <cc:requires
-          rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <path
-    id="icon"
-    style="font-style:italic;font-weight:800;font-size:246.575px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Ultra-Bold Italic';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:1.44239;paint-order:markers fill stroke"
-    d="M 7.6269531 0 L 0 48 L 15.583984 48 C 18.91547 48 21.91784 47.364974 24.591797 46.09375 C 27.265752 44.77869 29.479008 42.95804 31.232422 40.634766 C 32.985835 38.311493 34.103748 35.617302 34.585938 32.548828 L 37.347656 15.386719 C 37.829844 12.274409 37.566806 9.5782658 36.558594 7.2988281 C 35.55038 4.975555 33.906391 3.1774749 31.626953 1.90625 C 29.347515 0.63502509 26.542424 5.743197e-17 23.210938 0 L 7.6269531 0 z M 29.763672 0 C 30.591547 0.28442149 31.379766 0.62303763 32.115234 1.0332031 C 34.564065 2.3988966 36.381079 4.3830394 37.472656 6.8945312 C 37.79685 7.6274907 38.039599 8.4014718 38.220703 9.2050781 L 46.488281 9.2050781 L 48 0 L 29.763672 0 z M 15.978516 9.2050781 L 21.699219 9.2050781 C 23.715644 9.2050781 25.248733 9.776297 26.300781 10.916016 C 27.35283 12.055735 27.747387 13.545635 27.484375 15.386719 L 24.722656 32.548828 C 24.415808 34.433747 23.560934 35.946219 22.158203 37.085938 C 20.755472 38.225656 19.045722 38.794922 17.029297 38.794922 L 11.308594 38.794922 L 15.978516 9.2050781 z M 37.640625 19.857422 L 36.160156 29.0625 L 41.6875 29.0625 L 43.134766 19.857422 L 37.640625 19.857422 z "/>
-
+<svg inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)" sodipodi:docname="icon.svg" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+    <style>@media(prefers-color-scheme:dark){path{filter:invert(100%)};:root{background:#1e1f22}}</style>
+    <title>DevsForge organization icon</title>
+    <sodipodi:namedview bordercolor="#eeeeee" borderopacity="1" inkscape:current-layer="svg1" inkscape:cx="24" inkscape:cy="24" inkscape:deskcolor="#505050" inkscape:document-units="px" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:showpageshadow="0" inkscape:window-height="1009" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="16.5625" pagecolor="#505050"/>
+    <metadata>
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
+                <dc:title>Devs Forge organization icon</dc:title>
+                <dc:date>07/03/2024</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>devsforge.org</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                    <cc:Agent>
+                        <dc:title>devsforge.org</dc:title>
+                    </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                    <cc:Agent>
+                        <dc:title>devsforge.org</dc:title>
+                    </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>devsforge-icon</dc:identifier>
+                <dc:language>en</dc:language>
+                <dc:subject>
+                    <rdf:Bag>
+                        <rdf:li>devsforge</rdf:li>
+                        <rdf:li>logo</rdf:li>
+                        <rdf:li>icon</rdf:li>
+                    </rdf:Bag>
+                </dc:subject>
+                <dc:contributor>
+                    <cc:Agent>
+                        <dc:title>Serhii Horodilov</dc:title>
+                    </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License rdf:about="https://creativecommons.org/licenses/by-sa/4.0/">
+                <cc:permits rdf:resource="https://creativecommons.org/ns#Reproduction"/>
+                <cc:permits rdf:resource="https://creativecommons.org/ns#Distribution"/>
+                <cc:requires rdf:resource="https://creativecommons.org/ns#Notice"/>
+                <cc:requires rdf:resource="https://creativecommons.org/ns#Attribution"/>
+                <cc:permits rdf:resource="https://creativecommons.org/ns#DerivativeWorks"/>
+                <cc:requires rdf:resource="https://creativecommons.org/ns#ShareAlike"/>
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+    <path id="a" d="m7.627 0-7.627 48h15.584c3.3315 0 6.3339-0.63503 9.0078-1.9062 2.674-1.3151 4.8872-3.1357 6.6406-5.459 1.7534-2.3233 2.8713-5.0175 3.3535-8.0859l2.7617-17.162c0.48219-3.1123 0.21915-5.8085-0.78906-8.0879-1.0082-2.3233-2.6522-4.1214-4.9316-5.3926-2.2794-1.2712-5.0845-1.9062-8.416-1.9062h-15.584zm22.137 0c0.82788 0.28442 1.6161 0.62304 2.3516 1.0332 2.4488 1.3657 4.2658 3.3498 5.3574 5.8613 0.32419 0.73296 0.56694 1.5069 0.74805 2.3105h8.2676l1.5117-9.2051h-18.236zm-13.785 9.2051h5.7207c2.0164 0 3.5495 0.57122 4.6016 1.7109 1.052 1.1397 1.4466 2.6296 1.1836 4.4707l-2.7617 17.162c-0.30685 1.8849-1.1617 3.3974-2.5645 4.5371-1.4027 1.1397-3.1125 1.709-5.1289 1.709h-5.7207l4.6699-29.59zm21.662 10.652-1.4805 9.2051h5.5273l1.4473-9.2051h-5.4941z" stroke-width="1.4424" style="font-variant-ligatures:discretionary-ligatures;paint-order:markers fill stroke"/>
 </svg>
