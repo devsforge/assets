@@ -1,0 +1,3 @@
+:80
+root * /var/www/pub
+file_server browse
