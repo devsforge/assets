@@ -1,14 +1,21 @@
 ### Minimal ignore list template
-# editors files
+# Editors files
 /.vscode/
 /.idea/
-.DS_Storage
 .phcode.json
 
-# emacs cache and backups
+# OS generated files
+Thumbs.db
+desktop.ini
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+# Emacs cache and backups
 \#*\#
 *~
 
-# temporary files storage
+# Temporary files storage
 /temp/
 /tmp/
