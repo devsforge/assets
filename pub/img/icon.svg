@@ -1,13 +1,13 @@
 <svg inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)" sodipodi:docname="icon.svg" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
-    <style>@media(prefers-color-scheme:dark){path{filter:invert(100%)};:root{background:#1e1f22}}</style>
+    <style>@media(prefers-color-scheme:dark){path{filter:invert(100%)};:root{background:#1e1f22}</style>
     <title>DevsForge organization icon</title>
-    <sodipodi:namedview bordercolor="#eeeeee" borderopacity="1" inkscape:current-layer="svg1" inkscape:cx="24" inkscape:cy="24" inkscape:deskcolor="#505050" inkscape:document-units="px" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:showpageshadow="0" inkscape:window-height="1009" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="16.5625" pagecolor="#505050"/>
+    <sodipodi:namedview bordercolor="#eeeeee" borderopacity="1" inkscape:current-layer="svg1" inkscape:cx="11.6875" inkscape:cy="10.6875" inkscape:deskcolor="#505050" inkscape:document-units="px" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:showpageshadow="0" inkscape:window-height="1369" inkscape:window-maximized="1" inkscape:window-width="2560" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:zoom="8" pagecolor="#505050"/>
     <metadata>
         <rdf:RDF>
             <cc:Work rdf:about="">
                 <cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
-                <dc:title>Devs Forge organization icon</dc:title>
-                <dc:date>07/03/2024</dc:date>
+                <dc:title>DevsForge organization icon</dc:title>
+                <dc:date>2024/09/07</dc:date>
                 <dc:creator>
                     <cc:Agent>
                         <dc:title>devsforge.org</dc:title>
@@ -48,5 +48,5 @@
             </cc:License>
         </rdf:RDF>
     </metadata>
-    <path id="a" d="m7.627 0-7.627 48h15.584c3.3315 0 6.3339-0.63503 9.0078-1.9062 2.674-1.3151 4.8872-3.1357 6.6406-5.459 1.7534-2.3233 2.8713-5.0175 3.3535-8.0859l2.7617-17.162c0.48219-3.1123 0.21915-5.8085-0.78906-8.0879-1.0082-2.3233-2.6522-4.1214-4.9316-5.3926-2.2794-1.2712-5.0845-1.9062-8.416-1.9062h-15.584zm22.137 0c0.82788 0.28442 1.6161 0.62304 2.3516 1.0332 2.4488 1.3657 4.2658 3.3498 5.3574 5.8613 0.32419 0.73296 0.56694 1.5069 0.74805 2.3105h8.2676l1.5117-9.2051h-18.236zm-13.785 9.2051h5.7207c2.0164 0 3.5495 0.57122 4.6016 1.7109 1.052 1.1397 1.4466 2.6296 1.1836 4.4707l-2.7617 17.162c-0.30685 1.8849-1.1617 3.3974-2.5645 4.5371-1.4027 1.1397-3.1125 1.709-5.1289 1.709h-5.7207l4.6699-29.59zm21.662 10.652-1.4805 9.2051h5.5273l1.4473-9.2051h-5.4941z" stroke-width="1.4424" style="font-variant-ligatures:discretionary-ligatures;paint-order:markers fill stroke"/>
+    <path d="m7.1895 1.3789-7.1895 45.242h14.688c3.14 0 5.97-0.60068 8.4902-1.7988 2.5202-1.2395 4.6072-2.9529 6.2598-5.1426 1.6526-2.1897 2.7057-4.731 3.1602-7.623l2.6035-16.176c0.45447-2.9334 0.20611-5.4727-0.74414-7.6211-0.95026-2.1897-2.5-3.8839-4.6484-5.082-2.1484-1.1981-4.7917-1.7988-7.9316-1.7988h-14.687zm30.727 0c0.51184 0.73628 0.96169 1.5236 1.332 2.377 0.82615 1.8678 1.228 3.9716 1.2285 6.3008h6.0977l1.4258-8.6777h-10.084zm-22.857 8.6777h5.3926c1.9005 0 3.3463 0.53713 4.3379 1.6113 0.99157 1.0742 1.3631 2.4776 1.1152 4.2129l-2.6016 16.176c-0.28921 1.7766-1.0959 3.2012-2.418 4.2754-1.3221 1.0742-2.9335 1.6113-4.834 1.6113h-5.3906l4.3984-27.887zm24.094 10.039-1.3965 8.6758h4.2949l1.3633-8.6758h-4.2617z" fill="#000"/>
 </svg>
