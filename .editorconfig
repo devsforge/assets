@@ -5,14 +5,22 @@ indent_size      = 2
 indent_style     = space
 tab_width        = 4
 max_line_length  = 119
+
 ij_visual_guides = 72, 79, 119
+
+[LICENSE]
+max_line_length = 72
+
+ij_visual_guides = 72
 
 [*.md]
 indent_size      = 4
 max_line_length  = 79
+
 ij_visual_guides = 79
 
-[*.svg]
+[{*.svg,metadata.xml}]
 max_line_length  = off
 indent_size      = 4
+
 ij_visual_guides =
