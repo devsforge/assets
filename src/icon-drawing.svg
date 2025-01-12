@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="icon-drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="6.203125"
+     inkscape:cx="20.392947"
+     inkscape:cy="25.06801"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>DevsForge organization icon</dc:title>
+        <dc:date>2024/09/14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>DevsForge</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>DevsForge</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>DevsForge</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>devsforge-icon-drawing</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>devsforge</rdf:li>
+            <rdf:li>icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Serhii Horodilov</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="https://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="https://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="https://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="https://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="https://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="https://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="https://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:53.3333px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Ultra-Bold Italic';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:10;paint-order:markers fill stroke"
+       x="-19.104019"
+       y="-40.086594"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="-19.104019"
+         y="-40.086594">DFg</tspan></text>
+    <path
+       style="font-style:italic;font-weight:800;font-size:53.3333px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Ultra-Bold Italic';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;stroke-width:10;paint-order:markers fill stroke"
+       d="m 48.735979,119.07093 1.013332,-6.39999 h 8.266662 q 2.239999,0 3.626665,-1.12 1.439999,-1.12 1.706665,-3.09333 l 0.16,-1.12 0.746666,-4.16 q -2.879998,4.69333 -8.479995,4.69333 -4.426664,0 -6.613329,-3.09333 -2.186665,-3.09333 -1.333333,-8.373329 l 0.853333,-5.33333 q 0.853333,-5.226664 3.999998,-8.319995 3.146665,-3.146665 7.573329,-3.146665 2.719998,0 4.479997,1.279999 1.813332,1.279999 2.506665,3.679998 l 0.693333,-4.426664 h 7.733329 l -4.533331,28.586646 q -0.746666,4.8 -4.479997,7.57333 -3.733331,2.77333 -9.386661,2.77333 z m 10.98666,-18.13332 q 2.186665,0 3.626664,-1.226665 1.439999,-1.279999 1.813332,-3.573331 l 0.746667,-4.799997 q 0.373333,-2.293332 -0.693333,-3.519998 -1.013333,-1.279999 -3.199998,-1.279999 -2.239999,0 -3.626665,1.279999 -1.386666,1.226666 -1.759999,3.519998 l -0.746666,4.799997 q -0.373333,2.293332 0.586666,3.573331 1.013333,1.226665 3.253332,1.226665 z"
+       id="path35" />
+    <path
+       style="font-style:italic;font-weight:800;font-size:53.3333px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Ultra-Bold Italic';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;stroke-width:10;paint-order:markers fill stroke"
+       d="M 14.282647,109.47094 20.46931,70.53763 h 25.066651 l -1.226666,7.466662 H 27.135972 l -1.333332,8.639995 h 15.786657 l -1.173333,7.466662 h -15.67999 l -2.453332,15.359991 z"
+       id="path34" />
+    <path
+       style="font-style:italic;font-weight:800;font-size:53.3333px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Ultra-Bold Italic';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;stroke-width:10;paint-order:markers fill stroke"
+       d="m -18.090686,109.47094 6.186663,-38.93331 H 0.73596901 q 4.05333089,0 6.82666259,1.546665 2.7733314,1.546666 3.9999974,4.373331 1.226666,2.773332 0.64,6.559996 L 9.9626302,96.937614 q -0.5866663,3.733326 -2.7199984,6.559996 -2.1333321,2.82666 -5.3866635,4.42666 -3.2533314,1.54667 -7.3066623,1.54667 z m 9.1733274,-7.46666 h 4.6399973 q 2.4533318,0 4.15999748,-1.38667 Q 1.5893018,99.230946 1.9626349,96.937614 L 4.2026336,83.017622 Q 4.5226334,80.777623 3.2426342,79.390958 1.9626349,78.004292 -0.49069693,78.004292 H -5.1306942 Z"
+       id="text34" />
+    <g
+       id="g52"
+       transform="translate(-4.0533457)">
+      <path
+         id="path36"
+         style="font-style:italic;font-weight:800;font-size:53.3333px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Ultra-Bold Italic';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill:#ffff00;stroke-width:10;paint-order:markers fill stroke"
+         d="m 21.298828,41.425781 c -0.499304,0.115484 -1.041614,0.173828 -1.628906,0.173828 H 11.402344 L 10.390625,48 h 8.533203 c 3.768883,0 6.897834,-0.924553 9.386719,-2.773438 2.488885,-1.848884 3.980739,-4.372268 4.478515,-7.572265 l 0.03906,-0.244141 c -1.050388,0.863564 -2.206144,1.606472 -3.455078,2.220703 l -0.01563,0.0059 -0.01563,0.0078 c -2.437797,1.158955 -5.149796,1.739087 -8.042969,1.78125 z" />
+      <path
+         id="path37"
+         style="font-style:italic;font-weight:800;font-size:53.3333px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Ultra-Bold Italic';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill:#00ffff;stroke-width:10;paint-order:markers fill stroke"
+         d="m 41.046875,7.4667969 h 5.726563 L 48,0 H 36.203125 c 1.787602,1.2394907 3.192559,2.919374 4.060547,4.9140625 0.358862,0.8125291 0.612061,1.6670224 0.783203,2.5527344 z" />
+      <path
+         id="path51"
+         style="font-style:italic;font-weight:800;font-size:53.3333px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Ultra-Bold Italic';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill:#00ffff;stroke-width:10;paint-order:markers fill stroke"
+         d="m 39.363281,23.574219 h 3.517578 l 1.171875,-7.466797 h -3.488281 z" />
+      <path
+         style="font-style:italic;font-weight:800;font-size:53.3333px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Ultra-Bold Italic';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill:#d40000;stroke-width:10;paint-order:markers fill stroke"
+         d="M 8.1066915,38.93331 14.293355,0 h 12.639992 q 4.053331,0 6.826663,1.546665 2.773331,1.546666 3.999997,4.373331 1.226666,2.773332 0.64,6.559996 l -2.239998,13.919992 q -0.586667,3.733326 -2.719999,6.559996 -2.133332,2.82666 -5.386663,4.42666 -3.253332,1.54667 -7.306663,1.54667 z M 17.28002,31.46665 h 4.639997 q 2.453332,0 4.159998,-1.38667 1.706665,-1.386664 2.079998,-3.679996 l 2.239999,-13.919992 q 0.32,-2.239999 -0.959999,-3.626664 -1.28,-1.386666 -3.733332,-1.386666 h -4.639997 z"
+         id="path38" />
+    </g>
+  </g>
+</svg>
